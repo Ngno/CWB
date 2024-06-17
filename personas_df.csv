@@ -1,0 +1,7 @@
+Diabetes_binary,HighBP,HighChol,CholCheck,Smoker,Stroke,HeartDiseaseorAttack,PhysActivity,Fruits,Veggies,HvyAlcoholConsump,AnyHealthcare,NoDocbcCost,GenHlth,DiffWalk,Sex,Age,Education,Income,BMICategory,MentalHealthCategory,PhysicalHealthCategory,AgeCategory,BMI_Standardized,Persona
+1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,8.0,5.0,5.0,3.0,4.0,3.0,2.0,0.6632747707454871,"Female, Age Category 2"
+1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,3.0,0.0,1.0,8.0,5.0,6.0,3.0,4.0,4.0,2.0,0.3643205387375883,"Male, Age Category 2"
+1.0,1.0,1.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,11.0,5.0,5.0,3.0,4.0,3.0,3.0,0.21484342273363885,"Female, Age Category 3"
+1.0,1.0,1.0,1.0,1.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,3.0,0.0,1.0,11.0,5.0,6.0,2.0,4.0,4.0,3.0,0.0653663067296894,"Male, Age Category 3"
+1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,1.0,1.0,0.0,1.0,0.0,3.0,0.0,0.0,3.0,5.0,5.0,3.0,3.0,3.0,1.0,0.6632747707454871,"Female, Age Category 1"
+1.0,0.0,0.0,1.0,0.0,0.0,0.0,1.0,0.0,1.0,0.0,1.0,0.0,3.0,0.0,1.0,3.0,5.0,6.0,3.0,4.0,4.0,1.0,0.21484342273363885,"Male, Age Category 1"
